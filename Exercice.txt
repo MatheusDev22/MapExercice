@@ -1,0 +1,2 @@
+Na contagem de votos de uma eleição, são gerados varios registros de votação contendo o nome do candidato e a quatidade de votos (Formato.cvs) que ele obteve em uma urna de votação. Você deve fazer
+um programa para ler os registros de votação a partir de um arquivo, e daí gerar um relatório consolidade com os totais de cada candidato.
